@@ -43,7 +43,6 @@ The repository contains a self-hosted FastAPI backend and a React operations wor
 ## 开发参与者
 
 - [kaotao00](https://github.com/kaotao00)（提交作者名：`xialintao`）：参与本项目开发，并维护本仓库。
-- [logcjj](https://github.com/logcjj)：原始发布仓库的提交作者。
 
 开发参与者说明用于记录项目参与情况，原始发布版本的提交作者信息保留在上述说明中。
 
